@@ -2,6 +2,8 @@
 
 This project demonstrates how to integrate and use the [DecodL](https://decodl.net/) API for downloading various types of digital assets, including images and videos from popular stock providers. DecodL simplifies the process of acquiring licensed content for your projects by providing a unified API for multiple stock asset platforms.
 
+![Peek 2024-10-01 15-07](https://github.com/user-attachments/assets/643a81b4-b9fc-4d26-8260-c51fcad040b1)
+
 ## Introduction
 
 The DecodL API Download Demo is a simple web application that showcases how to interact with the DecodL API. It allows users to:
